@@ -8,6 +8,8 @@ just another list of awesome lists
 - [javascript](https://github.com/sorrycc/awesome-javascript)
 - [css](https://github.com/sotayamashita/awesome-css)
 - [data viz](https://github.com/fasouto/awesome-dataviz)
+- [microservices](https://github.com/wanghaisheng/awesome-microservice)
+- [angular](https://github.com/gianarb/awesome-angularjs)
 - [courses](https://github.com/prakhar1989/awesome-courses)
 
 ### other awesome lists
