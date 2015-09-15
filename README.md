@@ -6,7 +6,7 @@ just another list of awesome lists
 - [nodejs](https://github.com/sindresorhus/awesome-nodejs)
 - [docker](https://github.com/veggiemonk/awesome-docker)
 - [javascript](https://github.com/sorrycc/awesome-javascript)
-- [dotfile](https://github.com/webpro/awesome-dotfiles)
+- [dotfiles](https://github.com/webpro/awesome-dotfiles)
 - [vim](https://github.com/divad12/vim-awesome)
 - [css](https://github.com/sotayamashita/awesome-css)
 - [data viz](https://github.com/fasouto/awesome-dataviz)
