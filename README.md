@@ -14,6 +14,8 @@ just another list of awesome lists
 - [web performance](https://github.com/davidsonfellipe/awesome-wpo)
 - [angular](https://github.com/gianarb/awesome-angularjs)
 - [courses](https://github.com/prakhar1989/awesome-courses)
+- [shell](https://github.com/alebcay/awesome-shell)
+- [github](https://github.com/fffaraz/awesome-github)
 
 ### other awesome lists
 - [awesome](https://github.com/sindresorhus/awesome)
