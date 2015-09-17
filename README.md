@@ -16,6 +16,7 @@ just another list of awesome lists
 - [courses](https://github.com/prakhar1989/awesome-courses)
 - [shell](https://github.com/alebcay/awesome-shell)
 - [github](https://github.com/fffaraz/awesome-github)
+- [zsh plugins](https://github.com/unixorn/awesome-zsh-plugins)
 
 ### other awesome lists
 - [awesome](https://github.com/sindresorhus/awesome)
