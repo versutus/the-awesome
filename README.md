@@ -1,6 +1,7 @@
 # the-awesome
 just another list of awesome lists
 
+- [standard](https://github.com/feross/awesome-standard)
 - [react](https://github.com/enaqx/awesome-react)
 - [sysadmin](https://github.com/n1trux/awesome-sysadmin)
 - [nodejs](https://github.com/sindresorhus/awesome-nodejs)
