@@ -19,6 +19,7 @@ just another list of awesome lists
 - [github](https://github.com/fffaraz/awesome-github)
 - [zsh plugins](https://github.com/unixorn/awesome-zsh-plugins)
 - [osx](https://github.com/iCHAIT/awesome-osx)
+- [best practices](https://github.com/timoxley/best-practices)
 
 ### other awesome lists
 - [awesome](https://github.com/sindresorhus/awesome)
