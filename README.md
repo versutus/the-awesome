@@ -18,6 +18,7 @@ just another list of awesome lists
 - [web performance](https://github.com/davidsonfellipe/awesome-wpo)
 - [shell](https://github.com/alebcay/awesome-shell)
 - [github](https://github.com/fffaraz/awesome-github)
+- [electron](https://github.com/sindresorhus/awesome-electron)
 - [zsh plugins](https://github.com/unixorn/awesome-zsh-plugins)
 - [osx](https://github.com/iCHAIT/awesome-osx)
 - [courses](https://github.com/prakhar1989/awesome-courses)
