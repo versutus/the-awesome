@@ -22,6 +22,7 @@ just another list of awesome lists
 - [zsh plugins](https://github.com/unixorn/awesome-zsh-plugins)
 - [osx](https://github.com/iCHAIT/awesome-osx)
 - [courses](https://github.com/prakhar1989/awesome-courses)
+- [computer science](https://github.com/open-source-society/computer-science)
 
 ### other awesome lists
 - [awesome](https://github.com/sindresorhus/awesome)
