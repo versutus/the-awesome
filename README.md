@@ -23,6 +23,7 @@ just another list of awesome lists
 - [osx](https://github.com/iCHAIT/awesome-osx)
 - [courses](https://github.com/prakhar1989/awesome-courses)
 - [computer science](https://github.com/open-source-society/computer-science)
+- [datasets](https://github.com/caesar0301/awesome-public-datasets)
 
 ### other awesome lists
 - [awesome](https://github.com/sindresorhus/awesome)
