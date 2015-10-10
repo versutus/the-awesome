@@ -26,5 +26,6 @@ just another list of awesome lists
 - [datasets](https://github.com/caesar0301/awesome-public-datasets)
 
 ### other awesome lists
-- [awesome](https://github.com/sindresorhus/awesome)
-- [awesomeness](https://github.com/bayandin/awesome-awesomeness)
+- [awesome](https://github.com/sindresorhus/awesome) by sindresorhus
+- [awesomeness](https://github.com/bayandin/awesome-awesomeness) 
+- [lists](https://github.com/jnv/lists) The definitive list of lists (of lists) curated on GitHub
