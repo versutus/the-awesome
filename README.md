@@ -24,6 +24,7 @@ just another list of awesome lists
 - [courses](https://github.com/prakhar1989/awesome-courses)
 - [computer science](https://github.com/open-source-society/computer-science)
 - [datasets](https://github.com/caesar0301/awesome-public-datasets)
+- [bigdata](https://github.com/onurakpolat/awesome-bigdata)
 
 ### other awesome lists
 - [awesome](https://github.com/sindresorhus/awesome) by sindresorhus
