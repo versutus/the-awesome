@@ -5,6 +5,7 @@ just another list of awesome lists
 - [essential javascript](https://github.com/ericelliott/essential-javascript-links) 
 - [awesome javascript](https://github.com/sorrycc/awesome-javascript)
 - [nodejs](https://github.com/sindresorhus/awesome-nodejs)
+- [npm](https://github.com/sindresorhus/awesome-npm)
 - [offline first](https://github.com/pazguille/offline-first)
 - [react](https://github.com/enaqx/awesome-react)
 - [redux](https://github.com/xgrommx/awesome-redux)  
