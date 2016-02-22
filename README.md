@@ -1,5 +1,5 @@
 # the-awesome
-just another list of awesome lists
+just another list of awesome lists curated by [@gaboesquivel](http://twitter.com/gaboesquivel)
 
 - [best practices](https://github.com/timoxley/best-practices)
 - [essential javascript](https://github.com/ericelliott/essential-javascript-links) 
