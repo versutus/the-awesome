@@ -9,6 +9,7 @@ just another list of awesome lists
 - [offline first](https://github.com/pazguille/offline-first)
 - [react](https://github.com/enaqx/awesome-react)
 - [redux](https://github.com/xgrommx/awesome-redux)  
+- [js functional programming](https://github.com/stoeffel/awesome-fp-js)
 - [sysadmin](https://github.com/n1trux/awesome-sysadmin)
 - [ci & cd](https://github.com/ciandcd/awesome-ciandcd)
 - [docker](https://github.com/veggiemonk/awesome-docker)
