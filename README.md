@@ -20,7 +20,7 @@ just another list of awesome lists curated by [@gaboesquivel](http://twitter.com
 - [microservices](https://github.com/wanghaisheng/awesome-microservice)
 - [web performance](https://github.com/davidsonfellipe/awesome-wpo)
 - [shell](https://github.com/alebcay/awesome-shell)
-- [github](https://github.com/fffaraz/awesome-github)
+- [fffaraz github](https://github.com/fffaraz/awesome-github) | [kikobeats github](https://github.com/Kikobeats/awesome-github)
 - [electron](https://github.com/sindresorhus/awesome-electron)
 - [zsh plugins](https://github.com/unixorn/awesome-zsh-plugins)
 - [osx](https://github.com/iCHAIT/awesome-osx)
