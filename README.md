@@ -1,5 +1,5 @@
 # the-awesome
-just another list of awesome lists curated by [@gaboesquivel](http://twitter.com/gaboesquivel)
+just another list of awesome lists and other great resources curated by [@gaboesquivel](http://twitter.com/gaboesquivel)
 
 - [best practices](https://github.com/timoxley/best-practices)
 - [essential javascript](https://github.com/ericelliott/essential-javascript-links) 
@@ -28,6 +28,11 @@ just another list of awesome lists curated by [@gaboesquivel](http://twitter.com
 - [computer science](https://github.com/open-source-society/computer-science)
 - [datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [bigdata](https://github.com/onurakpolat/awesome-bigdata)
+
+## Best Practices
+- [front end](https://github.com/bendc/frontend-guidelines)
+- [js modules](https://github.com/mattdesl/module-best-practices)
+- [general programming](https://github.com/versutus/best-practices)
 
 ### other awesome lists
 - [awesome](https://github.com/sindresorhus/awesome) by sindresorhus
