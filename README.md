@@ -29,6 +29,8 @@ just another list of awesome lists and other great resources curated by [@gaboes
 - [computer science](https://github.com/open-source-society/computer-science)
 - [datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [bigdata](https://github.com/onurakpolat/awesome-bigdata)
+- [data science](https://github.com/open-source-society/data-science) 
+- [startup checklist](https://github.com/leonar15/startup-checklist) 
 
 ## Best Practices
 - [front end](https://github.com/bendc/frontend-guidelines)
