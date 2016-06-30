@@ -36,6 +36,7 @@ just another list of awesome lists and other great resources curated by [@gaboes
 - [front end](https://github.com/bendc/frontend-guidelines)
 - [js modules](https://github.com/mattdesl/module-best-practices)
 - [general programming](https://github.com/versutus/best-practices)
+- [git best practices](http://sethrobertson.github.io/GitBestPractices/)
 
 ### other awesome lists
 - [awesome](https://github.com/sindresorhus/awesome) by sindresorhus
