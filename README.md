@@ -1,7 +1,6 @@
 # the-awesome
 just another list of awesome lists and other great resources curated by [@gaboesquivel](http://twitter.com/gaboesquivel)
 
-- [best practices](https://github.com/timoxley/best-practices)
 - [essential javascript](https://github.com/ericelliott/essential-javascript-links) 
 - [awesome javascript](https://github.com/sorrycc/awesome-javascript)
 - [nodejs](https://github.com/sindresorhus/awesome-nodejs)
@@ -10,7 +9,7 @@ just another list of awesome lists and other great resources curated by [@gaboes
 - [react](https://github.com/enaqx/awesome-react)
 - [redux](https://github.com/xgrommx/awesome-redux)  
 - [js functional programming](https://github.com/stoeffel/awesome-fp-js)
-- [git tips] (https://github.com/git-tips/tips)  
+- [git tips](https://github.com/git-tips/tips)  
 - [sysadmin](https://github.com/n1trux/awesome-sysadmin)
 - [ci & cd](https://github.com/ciandcd/awesome-ciandcd)
 - [docker](https://github.com/veggiemonk/awesome-docker)
@@ -21,7 +20,7 @@ just another list of awesome lists and other great resources curated by [@gaboes
 - [microservices](https://github.com/wanghaisheng/awesome-microservice)
 - [web performance](https://github.com/davidsonfellipe/awesome-wpo)
 - [shell](https://github.com/alebcay/awesome-shell)
-- [fffaraz github](https://github.com/fffaraz/awesome-github) | [kikobeats github](https://github.com/Kikobeats/awesome-github)
+- [github](https://github.com/Kikobeats/awesome-github)
 - [electron](https://github.com/sindresorhus/awesome-electron)
 - [zsh plugins](https://github.com/unixorn/awesome-zsh-plugins)
 - [osx](https://github.com/iCHAIT/awesome-osx)
@@ -33,9 +32,9 @@ just another list of awesome lists and other great resources curated by [@gaboes
 - [startup checklist](https://github.com/leonar15/startup-checklist) 
 
 ## Best Practices
+- [programming](https://github.com/timoxley/best-practices)
 - [front end](https://github.com/bendc/frontend-guidelines)
 - [js modules](https://github.com/mattdesl/module-best-practices)
-- [general programming](https://github.com/versutus/best-practices)
 - [git best practices](http://sethrobertson.github.io/GitBestPractices/)
 
 ### other awesome lists
