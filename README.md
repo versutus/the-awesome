@@ -32,6 +32,7 @@ just another list of awesome lists and other great resources curated by [@gaboes
 - [data science](https://github.com/open-source-society/data-science) 
 - [startup checklist](https://github.com/leonar15/startup-checklist) 
 - [security guide](https://github.com/FallibleInc/security-guide-for-developers)  
+- [ubuntu / linux](https://github.com/VoLuong/Awesome-Ubuntu-Linux)  
 
 ## Best Practices
 - [programming](https://github.com/timoxley/best-practices)
