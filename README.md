@@ -33,6 +33,7 @@ just another list of awesome lists and other great resources curated by [@gaboes
 - [startup checklist](https://github.com/leonar15/startup-checklist) 
 - [security guide](https://github.com/FallibleInc/security-guide-for-developers)  
 - [ubuntu / linux](https://github.com/VoLuong/Awesome-Ubuntu-Linux)  
+- [self-hosted](https://github.com/Kickball/awesome-selfhosted)
 
 ## Best Practices
 - [programming](https://github.com/timoxley/best-practices)
