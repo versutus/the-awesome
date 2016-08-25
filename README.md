@@ -34,6 +34,7 @@ just another list of awesome lists and other great resources curated by [@gaboes
 - [security guide](https://github.com/FallibleInc/security-guide-for-developers)  
 - [ubuntu / linux](https://github.com/VoLuong/Awesome-Ubuntu-Linux)  
 - [self-hosted](https://github.com/Kickball/awesome-selfhosted)
+- [api dev tools](https://github.com/yosriady/api-development-tools)
 
 ## Best Practices
 - [programming](https://github.com/timoxley/best-practices)
