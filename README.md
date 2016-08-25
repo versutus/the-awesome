@@ -1,5 +1,5 @@
 # the-awesome
-just another list of awesome lists and other great resources curated by [@gaboesquivel](http://twitter.com/gaboesquivel)
+just another list of great resources curated by [@gaboesquivel](http://twitter.com/gaboesquivel)
 
 - [essential javascript](https://github.com/ericelliott/essential-javascript-links) 
 - [awesome javascript](https://github.com/sorrycc/awesome-javascript)
