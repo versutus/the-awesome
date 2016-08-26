@@ -35,7 +35,7 @@ just another list of great resources curated by [@gaboesquivel](http://twitter.c
 - [ubuntu / linux](https://github.com/VoLuong/Awesome-Ubuntu-Linux)  
 - [self-hosted](https://github.com/Kickball/awesome-selfhosted)
 - [api dev tools](https://github.com/yosriady/api-development-tools)
-- [rest](ttps://github.com/marmelab/awesome-rest)
+- [rest](https://github.com/marmelab/awesome-rest)
 
 ## Best Practices
 - [programming](https://github.com/timoxley/best-practices)
