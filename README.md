@@ -28,6 +28,7 @@ just another list of great resources curated by [@gaboesquivel](http://twitter.c
 - [computer science](https://github.com/open-source-society/computer-science)
 - [datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [graphql](https://github.com/chentsulin/awesome-graphql)
+- [postgres](https://github.com/dhamaniasad/awesome-postgres)
 - [bigdata](https://github.com/onurakpolat/awesome-bigdata)
 - [data science](https://github.com/open-source-society/data-science) 
 - [startup checklist](https://github.com/leonar15/startup-checklist) 
