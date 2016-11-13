@@ -45,7 +45,8 @@ just another list of great resources curated by [@gaboesquivel](http://twitter.c
 - [js modules](https://github.com/mattdesl/module-best-practices)
 - [git best practices](http://sethrobertson.github.io/GitBestPractices/)
 
-### other awesome lists
-- [awesome](https://github.com/sindresorhus/awesome) by sindresorhus
-- [awesomeness](https://github.com/bayandin/awesome-awesomeness) 
-- [lists](https://github.com/jnv/lists) The definitive list of lists (of lists) curated on GitHub
+## Author Info
+
+Software engineer and consultant. I help companies develop software products and make technical decisions. I’m a proponent of devops, continuous delivery, lightweight agile methodologies and open source technology stacks.
+
+I occasionally blog at [gaboesquivel.com](http://gaboesquivel.com) and you can find me on twitter as [@gaboesquivel](https://twitter.com/gaboesquivel)
