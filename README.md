@@ -39,6 +39,7 @@ just another list of great resources curated by [@gaboesquivel](http://twitter.c
 - [api dev tools](https://github.com/yosriady/api-development-tools)
 - [rest](https://github.com/marmelab/awesome-rest)
 - [public apis](https://github.com/toddmotto/public-apis)
+- [hyper](https://github.com/bnb/awesome-hyper)
 
 ## Best Practices
 - [programming](https://github.com/timoxley/best-practices)
