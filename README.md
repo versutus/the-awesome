@@ -47,6 +47,9 @@ just another list of great resources curated by [@gaboesquivel](http://twitter.c
 - [js modules](https://github.com/mattdesl/module-best-practices)
 - [git best practices](http://sethrobertson.github.io/GitBestPractices/)
 
+## Guides & How Tos
+- [The Open Guide to AWS](https://github.com/open-guides/og-aws)
+
 ## Author Info
 
 Software engineer and consultant. I help companies develop software products and make technical decisions. I’m a proponent of devops, continuous delivery, lightweight agile methodologies and open source technology stacks.
