@@ -40,6 +40,7 @@ just another list of great resources curated by [@gaboesquivel](http://twitter.c
 - [rest](https://github.com/marmelab/awesome-rest)
 - [public apis](https://github.com/toddmotto/public-apis)
 - [hyper](https://github.com/bnb/awesome-hyper)
+- [api design](https://github.com/Kikobeats/awesome-api)
 
 ## Best Practices
 - [programming](https://github.com/timoxley/best-practices)
