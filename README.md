@@ -42,6 +42,7 @@ just another list of great resources curated by [@gaboesquivel](http://twitter.c
 - [hyper](https://github.com/bnb/awesome-hyper)
 - [api design](https://github.com/Kikobeats/awesome-api)
 - [penetration testing](https://github.com/enaqx/awesome-pentest)
+- [serverless](https://github.com/JustServerless/awesome-serverless)
 
 ## Best Practices
 - [programming](https://github.com/timoxley/best-practices)
