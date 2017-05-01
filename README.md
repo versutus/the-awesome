@@ -15,7 +15,7 @@ just another list of great resources curated by [@gaboesquivel](http://twitter.c
 - [ci & cd](https://github.com/ciandcd/awesome-ciandcd)
 - [docker](https://github.com/veggiemonk/awesome-docker)
 - [dotfiles](https://github.com/webpro/awesome-dotfiles)
-- [vim](https://github.com/divad12/vim-awesome)
+- [vim](https://github.com/divad12/vim-awesome) weT
 - [css](https://github.com/sotayamashita/awesome-css)
 - [data viz](https://github.com/fasouto/awesome-dataviz)
 - [microservices](https://github.com/wanghaisheng/awesome-microservice)
@@ -43,6 +43,7 @@ just another list of great resources curated by [@gaboesquivel](http://twitter.c
 - [api design](https://github.com/Kikobeats/awesome-api)
 - [penetration testing](https://github.com/enaqx/awesome-pentest)
 - [serverless](https://github.com/JustServerless/awesome-serverless)
+- [hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 
 ## Best Practices
 - [programming](https://github.com/timoxley/best-practices)
