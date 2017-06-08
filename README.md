@@ -15,7 +15,7 @@ just another list of great resources curated by [@gaboesquivel](http://twitter.c
 - [ci & cd](https://github.com/ciandcd/awesome-ciandcd)
 - [docker](https://github.com/veggiemonk/awesome-docker)
 - [dotfiles](https://github.com/webpro/awesome-dotfiles)
-- [vim](https://github.com/divad12/vim-awesome) weT
+- [vim](https://github.com/divad12/vim-awesome)
 - [css](https://github.com/sotayamashita/awesome-css)
 - [data viz](https://github.com/fasouto/awesome-dataviz)
 - [microservices](https://github.com/wanghaisheng/awesome-microservice)
