@@ -44,6 +44,9 @@ just another list of great resources curated by [@gaboesquivel](http://twitter.c
 - [penetration testing](https://github.com/enaqx/awesome-pentest)
 - [serverless](https://github.com/JustServerless/awesome-serverless)
 - [hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+- [machine learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [tensorflow](https://github.com/jtoy/awesome-tensorflow)
+- [deep vision](https://github.com/kjw0612/awesome-deep-vision)
 
 ## Best Practices
 - [programming](https://github.com/timoxley/best-practices)
