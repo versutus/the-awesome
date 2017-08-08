@@ -47,6 +47,7 @@ just another list of great resources curated by [@gaboesquivel](http://twitter.c
 - [machine learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [tensorflow](https://github.com/jtoy/awesome-tensorflow)
 - [deep vision](https://github.com/kjw0612/awesome-deep-vision)
+- [web performance](https://github.com/davidsonfellipe/awesome-wpo)
 
 ## Best Practices
 - [programming](https://github.com/timoxley/best-practices)
