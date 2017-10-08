@@ -57,6 +57,7 @@ just another list of great resources curated by [@gaboesquivel](http://twitter.c
 - [front end](https://github.com/bendc/frontend-guidelines)
 - [js modules](https://github.com/mattdesl/module-best-practices)
 - [git best practices](http://sethrobertson.github.io/GitBestPractices/)
+- [smart contracts](https://github.com/ConsenSys/smart-contract-best-practices)
 
 ## Guides & How Tos
 - [The Open Guide to AWS](https://github.com/open-guides/og-aws)
