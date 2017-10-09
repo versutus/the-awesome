@@ -62,6 +62,7 @@ just another list of great resources curated by [@gaboesquivel](http://twitter.c
 
 ## Guides & How Tos
 - [The Open Guide to AWS](https://github.com/open-guides/og-aws)
+- [React Redux Patterns](https://github.com/markerikson/react-redux-links)
 
 ## Tooling
 - [OSX CLI](https://github.com/guarinogabriel/Mac-CLI)
