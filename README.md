@@ -51,7 +51,7 @@ just another list of great resources curated by [@gaboesquivel](http://twitter.c
 - [solidity](https://github.com/bkrem/awesome-solidity)
 - [ethereum](https://github.com/btomashvili/awesome-ethereum)
 - [should know](https://github.com/mr-mig/every-programmer-should-know)
-- [OSX command line](https://github.com/herrbischoff/awesome-osx-command-line)
+- [osx command line](https://github.com/herrbischoff/awesome-osx-command-line)
 
 ## Best Practices
 - [programming](https://github.com/timoxley/best-practices)
@@ -68,6 +68,6 @@ just another list of great resources curated by [@gaboesquivel](http://twitter.c
 
 ## Author Info
 
-Software engineer and consultant. I help companies develop software products and make technical decisions. I’m a proponent of devops, continuous delivery, lightweight agile methodologies and open source technology stacks.
+Software engineer and consultant. I help companies develop software products and make technical decisions. I’m a proponent of devops, continuous delivery, agile methodologies and open source technology stacks.
 
 I occasionally blog at [gaboesquivel.com](http://gaboesquivel.com) and you can find me on twitter as [@gaboesquivel](https://twitter.com/gaboesquivel)
