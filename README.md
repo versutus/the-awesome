@@ -9,6 +9,7 @@ just another list of great resources curated by [@gaboesquivel](http://twitter.c
 - [react](https://github.com/enaqx/awesome-react)
 - [redux](https://github.com/xgrommx/awesome-redux)  
 - [react native](https://github.com/jondot/awesome-react-native)
+- [general functional programming](https://github.com/xgrommx/awesome-functional-programming)
 - [js functional programming](https://github.com/stoeffel/awesome-fp-js)
 - [git tips](https://github.com/git-tips/tips)  
 - [sysadmin](https://github.com/n1trux/awesome-sysadmin)
