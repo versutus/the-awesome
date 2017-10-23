@@ -60,6 +60,7 @@ just another list of great resources curated by [@gaboesquivel](http://twitter.c
 - [js modules](https://github.com/mattdesl/module-best-practices)
 - [git best practices](http://sethrobertson.github.io/GitBestPractices/)
 - [smart contracts](https://github.com/ConsenSys/smart-contract-best-practices)
+- [css architecture](https://github.com/jareware/css-architecture)
 
 ## Guides & How Tos
 - [The Open Guide to AWS](https://github.com/open-guides/og-aws)
