@@ -53,6 +53,7 @@ just another list of great resources curated by [@gaboesquivel](http://twitter.c
 - [ethereum](https://github.com/btomashvili/awesome-ethereum)
 - [should know](https://github.com/mr-mig/every-programmer-should-know)
 - [osx command line](https://github.com/herrbischoff/awesome-osx-command-line)
+- [cloudformation](https://github.com/JeffRMoore/awesome-cloudformation)
 
 ## Best Practices
 - [programming](https://github.com/timoxley/best-practices)
