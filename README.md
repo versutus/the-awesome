@@ -51,6 +51,7 @@ just another list of great resources curated by [@gaboesquivel](http://twitter.c
 - [web performance](https://github.com/davidsonfellipe/awesome-wpo)
 - [solidity](https://github.com/bkrem/awesome-solidity)
 - [ethereum](https://github.com/btomashvili/awesome-ethereum)
+- [ipfs](https://github.com/ipfs/awesome-ipfs)
 - [should know](https://github.com/mr-mig/every-programmer-should-know)
 - [osx command line](https://github.com/herrbischoff/awesome-osx-command-line)
 - [cloudformation](https://github.com/JeffRMoore/awesome-cloudformation)
