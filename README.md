@@ -75,6 +75,6 @@ just another list of great resources curated by [@gaboesquivel](http://twitter.c
 
 ## Author Info
 
-Software engineer and consultant. I help companies develop software products and make technical decisions. I’m a proponent of devops, continuous delivery, agile methodologies and open source technology stacks.
+Software engineer and consultant. I occasionally blog at [gaboesquivel.com](http://gaboesquivel.com) and you can find me on twitter as [@gaboesquivel](https://twitter.com/gaboesquivel)
 
-I occasionally blog at [gaboesquivel.com](http://gaboesquivel.com) and you can find me on twitter as [@gaboesquivel](https://twitter.com/gaboesquivel)
+Blockchain, Decentralization, Smart Contracts, Ethereum, EOS Enthusiast, OSS, DevOps. JavaScript Ranger.
