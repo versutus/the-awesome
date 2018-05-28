@@ -8,6 +8,7 @@ just another list of great resources curated by [@gaboesquivel](http://twitter.c
 - [offline first](https://github.com/pazguille/offline-first)
 - [react](https://github.com/enaqx/awesome-react)
 - [redux](https://github.com/xgrommx/awesome-redux)  
+- [nextjs](https://github.com/unicodeveloper/awesome-nextjs)
 - [react native](https://github.com/jondot/awesome-react-native)
 - [general functional programming](https://github.com/xgrommx/awesome-functional-programming)
 - [js functional programming](https://github.com/stoeffel/awesome-fp-js)
