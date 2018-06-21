@@ -52,6 +52,7 @@ just another list of great resources curated by [@gaboesquivel](http://twitter.c
 - [web performance](https://github.com/davidsonfellipe/awesome-wpo)
 - [solidity](https://github.com/bkrem/awesome-solidity)
 - [ethereum](https://github.com/btomashvili/awesome-ethereum)
+- [node stream](https://github.com/thejmazz/awesome-nodejs-streams)
 - [ipfs](https://github.com/ipfs/awesome-ipfs)
 - [eos](https://github.com/EOS-Nation/Awesome-EOS)
 - [cryptonomics](https://github.com/jpantunes/awesome-cryptoeconomics)
