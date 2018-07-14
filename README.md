@@ -40,6 +40,7 @@ just another list of great resources curated by [@gaboesquivel](http://twitter.c
 - [self-hosted](https://github.com/Kickball/awesome-selfhosted)
 - [api dev tools](https://github.com/yosriady/api-development-tools)
 - [rest](https://github.com/marmelab/awesome-rest)
+- [loopback](https://github.com/pasindud/awesome-loopback)
 - [public apis](https://github.com/toddmotto/public-apis)
 - [hyper](https://github.com/bnb/awesome-hyper)
 - [api design](https://github.com/Kikobeats/awesome-api)
