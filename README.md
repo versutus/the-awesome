@@ -4,6 +4,7 @@ just another list of great resources curated by [@gaboesquivel](http://twitter.c
 - [essential javascript](https://github.com/ericelliott/essential-javascript-links) 
 - [awesome javascript](https://github.com/sorrycc/awesome-javascript)
 - [nodejs](https://github.com/sindresorhus/awesome-nodejs)
+- [json](https://github.com/burningtree/awesome-json)
 - [npm](https://github.com/sindresorhus/awesome-npm)
 - [offline first](https://github.com/pazguille/offline-first)
 - [react](https://github.com/enaqx/awesome-react)
